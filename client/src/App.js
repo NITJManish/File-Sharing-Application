@@ -8,7 +8,7 @@ function App() {
 
   const fileInputRef = useRef();
 
-  const url = 'https://i.pinimg.com/originals/16/46/24/1646243661201a0892cc4b1a64fcbacf.jpg';
+  const url = 'https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg?fit=fill&w=1200&h=630';
 
   useEffect(() => {
     const getImage = async () => {
